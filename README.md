@@ -24,5 +24,5 @@ However, it had some issues to run the Webdriver (doesn't metter which browser) 
 > Running Selenium Grid and the Remote Webdriver - <a href="https://github.com/SeleniumHQ/selenium/issues/922">Firefox Browser has session timeout</a>
 
 ## Distributed Crawling (not just parallel exection of the same tasks)
-> https://testdriven.io/blog/distributed-testing-with-selenium-grid/
+> https://testdriven.io/blog/distributed-testing-with-selenium-grid/ <br>
 > https://www.youtube.com/watch?v=cbIfU1fvGeo
