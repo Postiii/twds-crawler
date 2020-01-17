@@ -2,7 +2,9 @@
 This repository contains the code to build a highly scalable webcrawler for towardsdatascience.com by using Python, Selenium, Docker, Kubernetes and the infrastructure of the Google Cloud Platform. It was part of a datascience-class to get in touch with some of the most common technologies when it comes to big web- and big data processing.
 
 ## Documentation
-A more detailed description of the implementation can be found in my <a href="https://medium.com/@Postiii/build-a-scalable-webcrawler-for-towards-data-science-with-selenium-by-using-python-9c0c23e3ebe5">medium.com article</a>.
+A more detailed description of the implementation can be found in my <a href="https://medium.com/@Postiii/build-a-scalable-webcrawler-for-towards-data-science-with-selenium-by-using-python-9c0c23e3ebe5">medium.com article</a>.<br>
+
+
 
 # Trouble Shooting
 In the follow I collected some links and explanation for trouble shooting some of my challenges.
