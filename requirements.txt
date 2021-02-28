@@ -1,0 +1,8 @@
+selenium==3.141.0
+beautifulsoup4==4.8.1
+google-cloud==0.34.0
+google-cloud-datastore
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+lxml
